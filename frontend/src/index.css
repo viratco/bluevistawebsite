@@ -16,7 +16,7 @@ body {
 .hero-container {
   width: 100vw;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/blue_vista_bed.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.65)), url('/blue_vista_actual.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

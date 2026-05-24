@@ -304,8 +304,8 @@ function App() {
         <>
           <section className="about-section">
             <div className="about-images">
-              <img src="/loft.png" alt="Loft Apartment" className="img-main" />
-              <img src="/chair.png" alt="Armchair" className="img-overlay" />
+              <img src="/blue_vista_bed.jpg" alt="Boutique Luxury Suite" className="img-main" />
+              <img src="/blue_vista_img2.png" alt="Guest Suite Corridor" className="img-overlay" />
             </div>
             <div className="about-content">
               <p className="subtitle">STAY IN THE HEART OF GREATER NOIDA</p>
@@ -319,7 +319,7 @@ function App() {
 
           <section className="dining-section">
             <div className="dining-left">
-              <img src="/restaurant.png" alt="Restaurant Interior" className="dining-main-img" />
+              <img src="/blue_vista_img3.png" alt="Vistra Bistro Gastronomy" className="dining-main-img" />
             </div>
             <div className="dining-right">
               <div className="dining-content">
@@ -348,13 +348,13 @@ function App() {
 
           <section className="facilities-grid">
             <div className="grid-item img-item">
-              <img src="/meeting.png" alt="Meeting Room" />
+              <img src="/blue_vista_img1.png" alt="Celebration at Blue Vista Banquet" />
             </div>
             <div className="grid-item text-item">
-              <p className="subtitle">CORPORATE & EVENTS</p>
-              <h3 className="grid-heading">Modern Meeting Spaces</h3>
+              <p className="subtitle">BANQUETS & CELEBRATIONS</p>
+              <h3 className="grid-heading">Elegant Banquet Hall</h3>
               <p className="grid-desc">
-                Equipped with modern audiovisual technology, our meeting rooms provide the ideal environment for corporate conferences, seminars, and intimate business gatherings.
+                Our stunning banquet hall provides the perfect space for family reunions, milestone birthdays, corporate awards, and luxury social gatherings in Greater Noida.
               </p>
               <button className="start-exploring-btn" onClick={() => setView('amenities')}>Discover More</button>
             </div>
@@ -436,7 +436,7 @@ function App() {
               <div className="discover-card">
                 <div className="card-badge">RECOMMENDED</div>
                 <div className="card-img-wrapper">
-                  <img src="/museum.png" alt="Exhibitions and Museum" />
+                  <img src="/expomart_actual.jpg" alt="India Expo Centre Greater Noida" />
                 </div>
                 <div className="card-content">
                   <p className="subtitle">BUSINESS & EVENTS</p>
